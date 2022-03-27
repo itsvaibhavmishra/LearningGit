@@ -1,0 +1,7 @@
+This is where we start Learning Git.
+
+Commands learnet till now:
+    1. git init >> to initialize git into a folder
+    2. git status >> to check the status for the current folder
+    3.  a. git add "filename with extension" >> to add a file or
+        b. git add . >> to add all the files on current folder
