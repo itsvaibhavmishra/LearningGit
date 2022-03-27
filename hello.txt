@@ -8,3 +8,4 @@ Commands till now:
     4. git commit -m "<Put your flag here>" >> to commit the changed file/s
     5. git push -u origin main >> push the commited changes to github
     6. git log >> shows all the logs for files you have commited
+    7. git add remote origin "link" >> add the link to our local repository
