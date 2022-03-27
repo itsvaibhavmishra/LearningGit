@@ -6,4 +6,5 @@ Commands learnet till now:
     3.  a. git add "filename with extension" >> to add a file or
         b. git add . >> to add all the files on current folder
     4. git commit -m "<Put your flag here>" >> to commit the changed file/s
-    5. git push -u origin main
+    5. git push -u origin main >> push the commited changes to github
+    6. git log >> shows all the logs for files you have commited
